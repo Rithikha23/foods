@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body background="file:///C:/Users/pc/Desktop/food-cooking-background-stone-texture-with-sea-salt-pepper-garlic-parsley-light-grey-abstract-food-background-empty-space-text-can-be-used-food-posters-design-menu-top-view_253362-16400.jpg">
+    <h2> FOODS </h2>
+    <p>This is a list of<strong> Indian dishes</strong>. Many of the dishes on this list are made all across India. Indian cuisine encompasses a wide variety of regional cuisine native to India. Given the range of diversity in soil type, climate and occupations, these cuisines vary significantly from each other and use locally available ingredients such as: herbs, vegetables and fruits. The dishes are then served according to taste in either mild, medium or hot. Indian food is also heavily influenced by religious and cultural choices, like Hinduism and traditions. Some Indian dishes are common in more than one region of India, with many vegetarian and vegan dishes. Some ingredients commonly found in Indian dishes include: rice, wheat, ginger, Garlic, green chillies and spices.</p>
+      <br>
+      <h2>VARIETIES</h2>
+        Aloo gobi. Crisp golden potatoes and cauliflower.
+Butter chicken. Learn how to make the perfect Indian butter chicken with this recipe.
+Chana masala. Chickpea stew.
+Palak paneer. ...
+Chicken tikka masala. ...
+Doughy, butter-brushed naan. ...
+Crisp papadum. ...
+Fish curry. Masala dosa, Arguably South India's most renowned culinary export, masala dosas are famous the world over. ...
+Chaat. ...
+Dal makhani. ...
+Vada pav. ...
+Stuffed paratha. ...
+Dhokla. ... Barfi. ...
+Pani puri.
+<br>
+<br>
+ <img src="file:///C:/Users/pc/Desktop/download.jpg">
+ <map name="map" > 
+     <h2>"HEALTHY FOOD"</h2>
+     A <strong> healthy diet</strong>  is a diet that maintains or improves overall health.
+     A healthy diet provides the body with essential nutrition: fluid, macronutrients such as protein, micronutrients such as vitamins, and adequate fibre and food energy.
+     A healthy diet may contain fruits, vegetables, and whole grains, and may include little to no processed food or sweetened beverages. The requirements for a healthy diet can be met from a variety of plant-based and animal-based foods, although a non-plant source of vitamin B12 is needed for those following a vegan diet. 
+     Various nutrition guides are published by medical and governmental institutions to educate individuals on what they should be eating to be healthy. Nutrition facts labels are also mandatory in some countries to allow consumers to choose between foods based on the components relevant to health.
+     <br>
+     <br>
+     <img src="file:///C:/Users/pc/Desktop/shutterstock_1714928635.jpg">
+     <map name="map"
+          </map>
+     <br>          
+         <table border="1" bgcolor="blue" style="color:white" width="40%">
+             <h2>SOUTH AND NORTH INDIAN FOODS AND THEIR CLASSIFICATION</h2>   
+        <tr>
+                <th> S.NO </th>
+                <th> SOUTH INDIAN </th>
+                <th> NORTH INDIAN </th>
+            </tr>    
+     <tr>
+                <td> 1 </td>
+                <td> Dosa,idly </td>
+                <td> Pav baji </td>  
+            </tr>
+             <tr>
+                <td> 2 </td>
+                <td> Pongal </td>
+                <td> Chapathi </td>  
+
+                 <tr>
+                <td> 3 </td>
+                <td> Spicier </td>
+                <td> Less spicier </td>  
+            </tr>
+            <tr>
+                <td> 4 </td>
+                <td> Fruits </td>
+                <td> Dhal </td>  
+            </tr>
+            <tr>
+                <td> 5 </td>
+                <td> Meals </td>
+                <td> Jeera,Ghee Rice </td>  
+            </tr>
+              </table>
+     <br>
+     <h2>BREAKFAST</h2>
+     <p><strong>"In morning we have to eat healthy and stream food"</strong>
+     <p> 1.IDLY
+     <p> 2.DOSA 
+     <p> Etc.... 
+     <h2>LUNCH</h2>
+     <p><strong>"It gives energy and nutrients"</strong>
+     <p> 1.MEALS
+     <p> 2.VARIETIE RICE
+     <p> Etc.... 
+     <h2>SNACKS</h2>
+     <P><strong>"We eat snack after lunch in evening"</strong>
+         <p> 1.BAJI
+         <p> 2.OIL FOOD,SAMOSA
+         <p> Etc.... 
+             <h2>DINNER</h2>
+             <p><strong>"Eating dinner is good for health"</strong>
+                 <p> 1.SPICY FOOD
+                 <p> 2.CHUKKA,GRAVY
+                 <p> Etc.... 
+     <p> CLICK THE VIDEO TO KNOW MORE ABOUT FOODS</p>
+     <video controls src=https://youtu.be/2p7_8lA87iM"> </video>
+     <h2><i>"Food is important without food we can't survive"<i></h2>
+      <h3> CLICK THE AUDIO </h3>
+      <audio src="file:///C:/Users/pc/Desktop/Cooking-Long-Version.mp3 title="food" controls ></audio>
+      <h1><i>"ENJOY THE FOODS"</i></h1>
+      <table border="1" bgcolor="black" style="color:yellow" width="35%">
+      <tr>   
+      <td> JOIN FOOD PHOTOGRAPHY CONTEST</td>
+      </tr>
+      </table>
+      <br>
+      <img src="file:///C:/Users/pc/Desktop/pexels-anete-lusina-4792399-scaled-1200x675.jpg" width="35%">
+       <map name="map" > 
+           <br>
+           <br>
+        <form action="file:///C:/Users/Dell/Documents/NetBeansProjects/java/newhtml1.html">
+      <label for= "fname"> Name: </label>
+        <input type="text" id="fname" name="fname" value="" required>
+        <br>
+        <br>
+ <label for= "iname"> DOB: </label>
+       
+  <input type="date" id="inname" name="inname" value="yyyy-mm-dd" required>
+  <br>
+  <br>
+  <br>
+        <label for= "inname"> Age:  </label>
+        <input type="text" id="inname" name="inname" value="" required>
+        <br> 
+<p> Gender: </p>
+<input type="radio" id="male" name="gender" required>
+<label for ="male"> Male</label>
+<br>
+ <input type="radio" id ="female" name="gender" required>
+<label for ="female"> Female</label>
+<br>
+<br>
+ <label for= "fname">Email id: </label>
+        <input type="text" id="fname" Email id="fname" value="" required>
+        <br>    
+        <br>
+        <label for= "fname">Address: </label>
+        <input type="text" id="fname"Address="fname" value="" required>
+        <br>
+        <h2><strong>Rules</strong></h2>
+        <p>Photography rules,is all about dividing your shot into nine equal sections by a set of vertical and horizontal lines. With the imaginary frame in place, you should place the most important element(s) in your shot on one of the lines or where the lines meet.</p>
+      <br>
+           <input type="SUBMIT" name="sub">
+    </form>
+           </body>
+</html>
